@@ -1,4 +1,3 @@
-# Ecommerce
 # Multichannel Ecommerce Order & Inventory Sync API
 
 A REST API that simulates the core integration pattern used by ecommerce
